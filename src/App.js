@@ -18,6 +18,7 @@ function App() {
           Learn React and GIT
         </a>
       </header>
+      New feature 1
     </div>
   );
 }
